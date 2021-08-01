@@ -1,5 +1,6 @@
-# Getting Started with Create React App
+# About project
 
+This is an 'as simple as it can' example of connecting a dApp to Temple Wallet with ability to sign transactions.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
